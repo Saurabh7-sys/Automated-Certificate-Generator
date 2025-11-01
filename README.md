@@ -48,7 +48,7 @@ It fills the placeholders in the template, merges all generated documents, and c
 **Body (JSON):**
 ```json
 {
-  "templatePath": "./templates/TransferCertificate.docx",
+  "templatePath": "./templates/testGenCertificate.docx",
   "Data": [
     {
       "TC_NO": "191/2025/07",
