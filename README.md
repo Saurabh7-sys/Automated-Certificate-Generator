@@ -43,7 +43,7 @@ It fills the placeholders in the template, merges all generated documents, and c
 ---
 
 ## 📩 Example Request (Postman)
-**POST** `http://localhost:3000/api/generate`
+**POST** `http://localhost:3000/api/generateTransferCertificate`
 
 **Body (JSON):**
 ```json
