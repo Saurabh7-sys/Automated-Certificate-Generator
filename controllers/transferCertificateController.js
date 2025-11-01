@@ -37,7 +37,7 @@ exports.generateTransferCertificate  = async (req, res) => {
         },
         getSize: function () {
           // width, height in pixels
-          return [130, 160];
+          return [130, 140];
         },
       };
 
