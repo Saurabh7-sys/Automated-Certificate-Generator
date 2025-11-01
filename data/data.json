@@ -1,0 +1,23 @@
+{
+  "templatePath": "./templates/student_certificateImg_clean.docx",
+  "data": [
+    {
+      "student_name": "Saurabh Shelar",
+      "course_name": "Web Development",
+      "completion_date": "29 October 2025",
+      "grade": "A+",
+      "instructor_name": "Mr. Rajesh Kumar",
+      "signature_image": "https://res.cloudinary.com/duitfyvhs/image/upload/v1760432685/contact_kx0npb.jpg"
+    },
+    {
+      "student_name": "Gautam Shelar",
+      "course_name": "Data Science",
+      "completion_date": "1 November 2025",
+      "grade": "A",
+      "instructor_name": "Dr. Neha Gupta",
+      "signature_image": "https://res.cloudinary.com/duitfyvhs/image/upload/v1760432685/contact_kx0npb.jpg"
+    }
+  ]
+}
+
+// http://localhost:3000/api/certificate/generate

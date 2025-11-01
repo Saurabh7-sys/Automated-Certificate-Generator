@@ -1,0 +1,32 @@
+{
+  "name": "pdf-genetator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "clean-templates": "node scripts/autoCleanAllTemplates.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.1",
+    "body-parser": "^2.2.0",
+    "docx-merger": "^1.2.2",
+    "docxtemplater": "^3.37.2",
+    "docxtemplater-image-module-free": "^1.1.1",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.2",
+    "libreoffice-convert": "^1.7.0",
+    "office-to-pdf": "^4.0.0",
+    "pdf-lib": "^1.17.1",
+    "pizzip": "^3.1.1",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
