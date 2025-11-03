@@ -7,7 +7,7 @@
       "completion_date": "29 October 2025",
       "grade": "A+",
       "instructor_name": "Mr. Rajesh Kumar",
-      "signature_image": "https://res.cloudinary.com/duitfyvhs/image/upload/v1760432685/contact_kx0npb.jpg"
+      "student_img": "https://res.cloudinary.com/duitfyvhs/image/upload/v1760432685/contact_kx0npb.jpg"
     },
     {
       "student_name": "Gautam Shelar",
@@ -15,7 +15,7 @@
       "completion_date": "1 November 2025",
       "grade": "A",
       "instructor_name": "Dr. Neha Gupta",
-      "signature_image": "https://res.cloudinary.com/duitfyvhs/image/upload/v1760432685/contact_kx0npb.jpg"
+      "student_img": "https://res.cloudinary.com/duitfyvhs/image/upload/v1760432685/contact_kx0npb.jpg"
     }
   ]
 }
